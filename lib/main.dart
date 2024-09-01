@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:tasks_managment_app/screens/addTask.dart';
-import 'package:tasks_managment_app/screens/home.dart';
-import 'package:tasks_managment_app/screens/splashscreen.dart';
+import 'package:tasks_managment_app/views/screens/addTask.dart';
+import 'package:tasks_managment_app/views/screens/home.dart';
+import 'package:tasks_managment_app/views/screens/splashscreen.dart';
 
 void main() {
   runApp(const MyApp());

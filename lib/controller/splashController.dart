@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:tasks_managment_app/screens/home.dart';
+import 'package:tasks_managment_app/views/screens/home.dart';
 
 class SplashController extends GetxController {
   @override

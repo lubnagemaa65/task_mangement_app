@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:tasks_managment_app/controller/addTaskController.dart';
 import 'package:tasks_managment_app/controller/homeController.dart';
-import 'package:tasks_managment_app/screens/addTask.dart';
-import 'package:tasks_managment_app/screens/editTask.dart';
+import 'package:tasks_managment_app/views/screens/addTask.dart';
+import 'package:tasks_managment_app/views/screens/editTask.dart';
 
 class Home extends StatelessWidget {
   final HomeController homeController = Get.put(HomeController());

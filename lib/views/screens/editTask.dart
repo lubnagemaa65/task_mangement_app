@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:tasks_managment_app/controller/addTaskController.dart';
-import 'package:tasks_managment_app/screens/home.dart';
+import 'package:tasks_managment_app/views/screens/home.dart';
 import 'package:tasks_managment_app/task.dart';
-import 'package:tasks_managment_app/widgets/form_input.dart';
+import 'package:tasks_managment_app/views/widgets/form_input.dart';
 
 
 class EditTaskView extends StatelessWidget {
